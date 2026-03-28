@@ -1,1 +1,1 @@
-# LearnTrack Student Management System
+# LearnTrack
